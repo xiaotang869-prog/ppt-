@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editable PPT"
+  short_description: "Create editable PPTs from outlines, text, images, and screenshots"
+  default_prompt: "Use $ppt-editable to turn my outline, text, or PPT screenshots into an editable PowerPoint deck."
